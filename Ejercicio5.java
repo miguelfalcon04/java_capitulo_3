@@ -9,5 +9,4 @@ public class Ejercicio5{
         System.out.println("El área del rectangulo es: " + (b*h) + "cm^2");
         sc.close();
     }
-
 }
